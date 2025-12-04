@@ -20,7 +20,7 @@ rm -rf open-simh-simh-*
 
 # fix naming error in original repo
 mv I650/sw/Build_soap_from_source.ini I650/sw/build_soap_from_source.ini
-mv I650/sw/build_is_from_decks.ini I650/sw/build_is_from_decks.ini
+mv I650/sw/Build_is_from_decks.ini I650/sw/build_is_from_decks.ini
 
 make i650
 
